@@ -1,0 +1,26 @@
+body{
+    background-color: rgb(62, 122, 63);
+}
+h1{
+    text-align: center;
+    color: aliceblue;
+}
+.im1{
+    margin-top: 10px;
+
+}
+.im2{
+    margin-top: 10px;
+}
+img{
+    width: 250px;
+    height: 250px;
+}
+.two{
+    margin-top: -384px;
+    margin-left: 500px;
+}
+.one{
+    display: inline-block;
+    text-align: center;
+}
